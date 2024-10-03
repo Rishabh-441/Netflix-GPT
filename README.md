@@ -2,6 +2,16 @@
 
 - create react app
 - installed tailwind css
+- installed react-router-dom
+- Header
+- routing of app
+- login form
+- signup form
+- form validation
+- useRef hook
+- firebase setup
+- deploying our app to production
+- create signup user account
 
 
 
